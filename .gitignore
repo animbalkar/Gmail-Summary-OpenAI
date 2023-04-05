@@ -4,5 +4,5 @@ venv
 credentials.json
 storage.json
 mail_summary.csv
-scrap_summary.csv
+scrap_email.csv
 
