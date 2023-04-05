@@ -1,0 +1,8 @@
+__pycache__
+venv 
+.env
+credentials.json
+storage.json
+mail_summary.csv
+scrap_summary.csv
+
